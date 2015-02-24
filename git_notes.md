@@ -51,6 +51,7 @@ commit
 
 ## st
 status
+
 ## br
 branch
 
@@ -62,3 +63,34 @@ cat-file -t
 
 ## dump
 cat-file -p
+
+
+## gs
+git status 
+
+## ga 
+git add
+
+## gb
+git branch 
+
+## gc
+git commit
+
+## gd 
+git diff
+
+## go 
+git checkout 
+
+## gk 
+gitk --all&
+
+## gx 
+gitx --all
+
+## got
+git 
+
+## get
+git 
