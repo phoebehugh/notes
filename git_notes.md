@@ -42,3 +42,23 @@ informs git to display the commit tree in an ASCII graph layout
 
 ## --date=short 
 keeps the date format nice and short
+
+## co 
+checkout
+
+## ci
+commit
+
+## st
+status
+## br
+branch
+
+## hist
+log --pretty=format:'%h %ad | %s%d [%an]' --graph --date=short
+  
+## type
+cat-file -t
+
+## dump
+cat-file -p
