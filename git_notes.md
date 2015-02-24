@@ -1,3 +1,15 @@
+## git tag v1
+tag the current version
+
+## git tag v1-beta
+add another tag
+
+## git tag
+view which tags are available
+
+## git co v1^
+checkout previous version to v1
+
 ## git log --pretty=oneline
 all on a line
 
@@ -94,3 +106,4 @@ git
 
 ## get
 git 
+
