@@ -10,6 +10,9 @@ view which tags are available
 ## git co v1^
 checkout previous version to v1
 
+## git reset HEAD <file>
+The reset command resets the staging area to be whatever is in HEAD. This clears the staging area of the change we just staged.
+
 ## git log --pretty=oneline
 all on a line
 
